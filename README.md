@@ -1,4 +1,4 @@
-# Olá, sou o Rômulo! 👋
+# Olá, sou o Rômulo Ribeiro! 👋
 
 **Desenvolvedor Full Stack Júnior** · Brasília, DF
 
