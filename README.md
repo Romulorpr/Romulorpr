@@ -17,7 +17,9 @@ Estagiário de TI na Caixa Econômica Federal, com experiência prática em dese
 **Front-end**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -42,6 +44,10 @@ Estagiário de TI na Caixa Econômica Federal, com experiência prática em dese
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 🌤️ [App Clima — Capitais do Brasil](https://github.com/Romulorpr/Projeto-clima-VueJs)
+Aplicação que exibe dados climáticos em tempo real das 27 capitais brasileiras, com cards interativos e destaque visual na cidade selecionada.
+`Vue.js` `Vite` `Open-Meteo API` `JavaScript` `CSS3` `Componentes` `Props` `Emit` `Slots`
 
 ### 📦 [Estoque App](https://github.com/Romulorpr/estoque-app)
 Sistema fullstack de controle de estoque com CRUD completo.
