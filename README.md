@@ -1,4 +1,4 @@
-# Olá, sou o Rômulo Ribeiro! 👋
+# Olá, sou o Rômulo Ribeiro!
 
 **Desenvolvedor Full Stack Júnior** · Brasília, DF
 
@@ -89,7 +89,7 @@ Sistema bancário simples desenvolvido em Python.
 ## 💼 Experiência
 
 **Estagiário em TI / Desenvolvimento** · Caixa Econômica Federal *(Nov/2025 – atual)*
-> Python · Git · Scrum · Azure DevOps · Selenium · Power Apps · Power Automate · SharePoint · Testes funcionais e automatizados
+> Python · Git · Scrum · Azure DevOps · QA · Power Apps · Power Automate · SharePoint · Testes funcionais e automatizados
 
 ---
 
