@@ -1,8 +1,13 @@
 # Olá, sou o Rômulo Ribeiro!
 
-**Desenvolvedor Full Stack Júnior** · Brasília, DF
+**Desenvolvedor Full Stack Júnior & QA** · Brasília, DF
 
-Estagiário de TI na Caixa Econômica Federal, com experiência prática em desenvolvimento, testes automatizados e automação de processos. Formando em Análise e Desenvolvimento de Sistemas, em evolução constante no stack Java + Angular.
+Desenvolvedor Júnior com experiência prática em ambiente corporativo na Caixa Econômica Federal, atuando em Quality Assurance (QA), execução de testes manuais e funcionais, homologação de sistemas internos e gestão de 
+testes com Azure Test Plans. Participação em equipes ágeis utilizando Scrum, contribuindo em projetos corporativos de desenvolvimento, manutenção e sustentação de sistemas. Experiência no desenvolvimento de soluções com 
+Microsoft Power Platform, incluindo Power Apps, Power Automate e SharePoint, para automação de processos, gerenciamento de dados e criação de sites corporativos, com projetos em produção. Atuação complementar no 
+desenvolvimento de scripts em Python para automação de rotinas, versionamento de código com Git/GitHub e levantamento de requisitos funcionais. Graduando em Análise e Desenvolvimento de Sistemas, com sólida 
+experiência anterior em suporte técnico, infraestrutura de TI e operação de sistemas de gestão empresarial. Em constante aprimoramento em Java e desenvolvimento Full Stack, com foco em APIs REST, aplicações web e 
+arquitetura orientada a objetos. Perfil analítico, colaborativo e orientado à qualidade de software e melhoria contínua. 
 
 ---
 
@@ -61,17 +66,6 @@ Aplicação fullstack para gestão de clientes com integração frontend/backend
 Sistema bancário simples desenvolvido em Python.
 `Python` `POO` `Lógica de programação`
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rômulo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romulorpr&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romulorpr&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
-</div>
 
 ---
 
@@ -89,7 +83,7 @@ Sistema bancário simples desenvolvido em Python.
 ## 💼 Experiência
 
 **Estagiário em TI / Desenvolvimento** · Caixa Econômica Federal *(Nov/2025 – atual)*
-> Python · Git · Scrum · Azure DevOps · QA · Power Apps · Power Automate · SharePoint · Testes funcionais e automatizados
+> Python · Git · Scrum · QA · Power Platform · Power Apps · Power Automate · SharePoint · Testes funcionais e automatizados · Azure DevOps
 
 ---
 
