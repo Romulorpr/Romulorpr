@@ -50,6 +50,10 @@ arquitetura orientada a objetos. Perfil analítico, colaborativo e orientado à 
 
 ## 🚀 Projetos em Destaque
 
+### 🧾 [Cadastro de Clientes — Angular 19](https://github.com/Romulorpr/Projeto-Angular-Clientes)
+Aplicação web de CRUD de clientes com consumo de API REST externa para listagem dinâmica de estados e municípios brasileiros.
+`Angular 19` `Angular Material` `TypeScript` `SCSS` `BrasilAPI` `ngx-mask` `Flex Layout` `Standalone Components`
+
 ### 🌤️ [App Clima — Capitais do Brasil](https://github.com/Romulorpr/Projeto-clima-VueJs)
 Aplicação que exibe dados climáticos em tempo real das 27 capitais brasileiras, com cards interativos e destaque visual na cidade selecionada.
 `Vue.js` `Vite` `Open-Meteo API` `JavaScript` `CSS3` `Componentes` `Props` `Emit` `Slots`
