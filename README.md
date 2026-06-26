@@ -1,6 +1,6 @@
 # Olá, sou o Rômulo Ribeiro!
 
-**Desenvolvedor Full Stack Júnior & QA** · Brasília, DF
+**Desenvolvedor de Software Júnior & QA** · Brasília, DF
 
 Desenvolvedor Júnior com experiência prática em ambiente corporativo na Caixa Econômica Federal, atuando em Quality Assurance (QA), execução de testes manuais e funcionais, homologação de sistemas internos e gestão de 
 testes com Azure Test Plans. Participação em equipes ágeis utilizando Scrum, contribuindo em projetos corporativos de desenvolvimento, manutenção e sustentação de sistemas. Experiência no desenvolvimento de soluções com 
