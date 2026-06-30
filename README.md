@@ -58,10 +58,6 @@ Aplicação web de CRUD de clientes com consumo de API REST externa para listage
 Aplicação que exibe dados climáticos em tempo real das 27 capitais brasileiras, com cards interativos e destaque visual na cidade selecionada.
 `Vue.js` `Vite` `Open-Meteo API` `JavaScript` `CSS3` `Componentes` `Props` `Emit` `Slots`
 
-### 📦 [Estoque App](https://github.com/Romulorpr/estoque-app)
-Sistema fullstack de controle de estoque com CRUD completo.
-`Java` `Spring Boot` `Angular` `PostgreSQL` `JDBC` `REST API` `MVC`
-
 ### 👥 [Controle de Clientes](https://github.com/Romulorpr/Projeto-clientes-Java)
 Aplicação fullstack para gestão de clientes com integração frontend/backend.
 `Java` `Spring Boot` `Angular` `JPA` `H2` `REST API`
