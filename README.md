@@ -1,9 +1,9 @@
 # Olá, sou o Rômulo Ribeiro!
 
-**Desenvolvedor de Software Júnior & QA** · Brasília, DF
+**Desenvolvedor de Software & QA** · Brasília, DF
 
 Desenvolvedor Júnior com experiência prática em ambiente corporativo na Caixa Econômica Federal, atuando em Quality Assurance (QA), execução de testes manuais e funcionais, homologação de sistemas internos e gestão de 
-testes com Azure Test Plans. Participação em equipes ágeis utilizando Scrum, contribuindo em projetos corporativos de desenvolvimento, manutenção e sustentação de sistemas. Experiência no desenvolvimento de soluções com 
+testes. Participação em equipes ágeis utilizando Scrum, contribuindo em projetos corporativos de desenvolvimento, manutenção e sustentação de sistemas. Experiência no desenvolvimento de soluções com 
 Microsoft Power Platform, incluindo Power Apps, Power Automate e SharePoint, para automação de processos, gerenciamento de dados e criação de sites corporativos, com projetos em produção. Atuação complementar no 
 desenvolvimento de scripts em Python para automação de rotinas, versionamento de código com Git/GitHub e levantamento de requisitos funcionais. Graduando em Análise e Desenvolvimento de Sistemas, com sólida 
 experiência anterior em suporte técnico, infraestrutura de TI e operação de sistemas de gestão empresarial. Em constante aprimoramento em Java e desenvolvimento Full Stack, com foco em APIs REST, aplicações web e 
@@ -17,6 +17,8 @@ arquitetura orientada a objetos. Perfil analítico, colaborativo e orientado à 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Front-end**
@@ -31,14 +33,21 @@ arquitetura orientada a objetos. Perfil analítico, colaborativo e orientado à 
 **Banco de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white)
 
 **DevOps & Qualidade**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white)
+![RTC](https://img.shields.io/badge/IBM_RTC-052FAD?style=flat&logo=ibm&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+
+
 
 **Produtividade**
 
@@ -49,6 +58,10 @@ arquitetura orientada a objetos. Perfil analítico, colaborativo e orientado à 
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 🌾 [Cerrado Store — Sistema de Estoque](https://github.com/Romulorpr/Projeto-Angular14-EstoqueApp)
+Aplicação full stack de controle de estoque com CRUD completo de produtos, categorização, autenticação de usuários com senha criptografada e rotas protegidas por guard. API testada via Postman e componentes cobertos por testes unitários.
+`Angular 14` `Angular Material` `Node.js` `Express` `MongoDB` `Mongoose` `bcrypt` `RxJS` `Postman` `Karma` `Jasmine`
 
 ### 🧾 [Cadastro de Clientes — Angular 19](https://github.com/Romulorpr/Projeto-Angular-Clientes)
 Aplicação web de CRUD de clientes com consumo de API REST externa para listagem dinâmica de estados e municípios brasileiros.
@@ -83,7 +96,7 @@ Sistema bancário simples desenvolvido em Python.
 ## 💼 Experiência
 
 **Estagiário em TI / Desenvolvimento** · Caixa Econômica Federal *(Nov/2025 – atual)*
-> Python · Git · Scrum · QA · Power Platform · Power Apps · Power Automate · SharePoint · Testes funcionais e automatizados · Azure DevOps
+> Power Platform · Power Apps · Power Automate · SharePoint · QA · Python · Git · Scrum  · Testes funcionais e automatizados · Azure DevOps · IBM RTC · ServiceNow
 
 ---
 
