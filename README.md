@@ -63,7 +63,7 @@ arquitetura orientada a objetos. Perfil analítico, colaborativo e orientado à 
 Aplicação full stack de controle de estoque com CRUD completo de produtos, categorização, autenticação de usuários com senha criptografada e rotas protegidas por guard. API testada via Postman e componentes cobertos por testes unitários.
 `Angular 14` `Angular Material` `Node.js` `Express` `MongoDB` `Mongoose` `bcrypt` `RxJS` `Postman` `Karma` `Jasmine`
 
-### 🧾 [Cadastro de Clientes — Angular 19](https://github.com/Romulorpr/Projeto-Angula19-Clientes)
+### 🧾 [Cadastro de Clientes](https://github.com/Romulorpr/Projeto-Angula19-Clientes)
 Aplicação web de CRUD de clientes com consumo de API REST externa para listagem dinâmica de estados e municípios brasileiros.
 `Angular 19` `Angular Material` `TypeScript` `SCSS` `BrasilAPI` `ngx-mask` `Flex Layout` `Standalone Components`
 
