@@ -59,6 +59,10 @@ arquitetura orientada a objetos. Perfil analítico, colaborativo e orientado à 
 
 ## 🚀 Projetos em Destaque
 
+### 📖 [Álbum de Figurinhas — Lendas da Tecnologia](https://github.com/Romulorpr/Projeto-WebPython-Album)
+Álbum digital interativo com efeito de virada de página, consumindo uma API REST própria para carregar figurinhas de personalidades da tecnologia. Projeto de prática de arquitetura web (frontend + backend desacoplados).
+`Python` `FastAPI` `Uvicorn` `JavaScript` `HTML5` `CSS3` `PageFlip` `Swagger UI` `Postman`
+
 ### 🌾 [Cerrado Store — Sistema de Estoque](https://github.com/Romulorpr/Projeto-Angular14-EstoqueApp)
 Aplicação full stack de controle de estoque com CRUD completo de produtos, categorização, autenticação de usuários com senha criptografada e rotas protegidas por guard. API testada via Postman e componentes cobertos por testes unitários.
 `Angular 14` `Angular Material` `Node.js` `Express` `MongoDB` `Mongoose` `bcrypt` `RxJS` `Postman` `Karma` `Jasmine`
